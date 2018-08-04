@@ -1,0 +1,2 @@
+Implementation of a WPF DatePicker with custom date format.  
+Based on top answer from here https://stackoverflow.com/questions/641577/how-to-change-format-e-g-dd-mmm-yyyy-of-datetimepicker-in-wpf-application
